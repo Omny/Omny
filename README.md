@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Omny
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: https://www.linkedin.com/in/artem-petrishchev/
 
 <!---
 Omny/Omny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
